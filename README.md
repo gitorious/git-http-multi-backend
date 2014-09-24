@@ -51,5 +51,5 @@ Example:
 ## License
 
 git-http-multi-backend is free software licensed under the
-[http://www.gnu.org/licenses/agpl-3.0.html](GNU Affero General Public License).
+[GNU Affero General Public License](http://www.gnu.org/licenses/agpl-3.0.html).
 git-http-multi-backend is developed as part of the Gitorious project.
